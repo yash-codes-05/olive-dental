@@ -1,52 +1,59 @@
-Olive Dental & Surgicals – Website
+Olive Dental & Surgicals – Official Website
 
-A modern, responsive website for Olive Dental & Surgicals, built to showcase dental products and services with a clean user experience.
+A modern, responsive, and production-ready website developed for Olive Dental & Surgicals. The website provides a professional online presence for a dental clinic and surgical products business with a clean UI and optimized performance.
 
 Live Demo
 
 Website: https://olive-dental.vercel.app
 
+Project Overview
+
+This project was developed to create a responsive and user-friendly website for a dental business. It focuses on delivering a smooth browsing experience while showcasing dental services, products, and contact information.
+
 Features
 
-- Responsive design for mobile, tablet, and desktop.
-- Modern UI with smooth navigation.
-- Product and services showcase.
-- Contact section for customer inquiries.
-- Fast loading and optimized performance.
+- Fully responsive design (Mobile, Tablet & Desktop)
+- Modern and clean user interface
+- Services and products showcase
+- Contact & enquiry section
+- Optimized performance and fast loading
+- Deployed on Vercel
 
 Tech Stack
 
-- React.js
 - Next.js
+- React.js
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
 - Vercel (Deployment)
 
 Project Structure
 
-frontend/
+app/
+public/
+components/
+styles/
+package.json
+next.config.mjs
 
-- components/
-- pages/
-- public/
-- styles/
+Getting Started
 
-Installation
-
-git clone <repository-url>
+git clone https://github.com/yash-codes-05/olive-dental.git
 cd olive-dental
 npm install
 npm run dev
 
+Open "http://localhost:3000" in your browser to run the project locally.
+
 Deployment
 
-The project is deployed on Vercel for fast and reliable hosting.
+The application is successfully deployed and hosted on Vercel for public access.
 
 Author
 
 Yash Srivastava
 
-B.Tech Computer Science & Engineering
+Bachelor of Technology (Computer Science & Engineering)
 
-Shri Ramswaroop Memorial College of Engineering and Management
+Shri Ramswaroop Memorial College of Engineering and Management , Lucknow
